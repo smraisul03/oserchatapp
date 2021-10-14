@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c4858fa6-46df-4159-88ad-78380ec4f570/deploy-status)](https://app.netlify.com/sites/oserchatapp/deploys)
+
 # ReactJS
 This app is created in ReactJS. For more information about ReactJS, please check out their [Github](https://github.com/reactjs).
 
